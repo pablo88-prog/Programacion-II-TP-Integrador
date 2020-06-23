@@ -18,3 +18,4 @@
 *Por ejemplo*: En un videojuego de disparos en primera persona el jugador dispone de dos tipos de armas (escopeta y fusil de asalto), ambas sirven para eliminar a los enemigos que se van presentando por el escenario, pero cada una lo hace de forma distinta. Todas son armas y como tales hacen daño a los enemigos, pero cada una hace una cantidad de daño distinta.
 
 ![Diagrama de Clases](C:\Users\Pablo\Documents\Polimorfismo2.jpg)
+![Polimorfismo2](https://user-images.githubusercontent.com/67186577/85348225-4bbc0800-b4d1-11ea-9d71-6d3584d63ff2.jpg)
